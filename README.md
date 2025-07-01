@@ -26,6 +26,12 @@ No installation or login required (guests have limited usage – register for fu
 
 ---
 
+## 📸 Preview
+
+![screenshot](https://cdn.discordapp.com/attachments/1355870565772169348/1389682982201065503/image.png?ex=686582a2&is=68643122&hm=aa3f19e45f2e2c1e7ec5d0d9b2a1acde85cc2e01db4426a07b737e2f2deac094&) 
+
+---
+
 ## 📬 Feedback
 
 Have suggestions, ideas or bugs?  
